@@ -1,8 +1,8 @@
-.login{
-    color: rgb(0, 238, 247);
+.login1{
+    color: rgb(0, 0, 0);
     text-align: center;
     background-image: url("") ;
-    font-family: 'Arial';
+    font-family: 'Franklin Gothic Medium';
 }
 
 .pixula{
@@ -14,3 +14,30 @@
 
     text-align: left !important; 
 }
+
+
+.Register{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url("") ;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.pixula{
+
+    text-align: left;
+}
+
+.pixula3{
+
+    text-align: left !important; 
+
+}
+
+.fixa{
+    color:rgb(43, 255, 0);
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
